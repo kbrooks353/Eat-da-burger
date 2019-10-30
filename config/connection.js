@@ -5,8 +5,8 @@ var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "root",
-  database: "cat_db"
+  password: "wO7k5%HuAQvz",
+  database: "burger_db"
 });
 
 // we create a promise so that we can make sure any request waits
